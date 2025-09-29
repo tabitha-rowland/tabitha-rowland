@@ -1,5 +1,5 @@
-## Hey! I'm Tabitha
-# (she/they)
+## Hey! I'm Tabitha. Welcome to my profile!
+### she/they
 
 I studied Computer Science and English at Kalamazoo College, and I'm currently getting my MEng at Oregon State. Year 2! Woo! I graduate in June 2026.
 

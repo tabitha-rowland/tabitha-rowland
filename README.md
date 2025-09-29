@@ -2,9 +2,9 @@
 
 I studied Computer Science and English at Kalamazoo College, and I'm currently getting my MEng at Oregon State. Year 2! Woo! I graduate in June 2026. 
 
-Right now I work in LiDAR processing, which mostly involves making sense of issues like the underwater points not alignining with the true profile and trying to make sense of point cloud data. Basically we make 3D maps. It's cool!
+Right now I work in LiDAR processing, which mostly involves making sense of issues like the underwater points not alignining with the true profile and interpretting rasters. Basically we make 3D maps. It's cool!
 
-For fun, I've been getting into Stardew Valley modding. I'm learning a lot about C# and game frameworks through this (:
+For fun, I've been getting into Stardew Valley modding. I'm learning a lot about C# and game frameworks through this endeavour (:
 
 
 ## Things I work with
